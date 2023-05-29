@@ -1,0 +1,26 @@
+#navbar{
+    background-color: rgb(150, 150, 150);
+}
+
+#sidebar{
+   
+}
+
+    #as {
+        transition: background-color 0.3s ease;
+      }
+      
+      #as:hover {
+        background-color: rgb(204, 204, 204);
+      }
+      .icon-text {
+        margin-left: 8px; /* Adjust the margin value as per your desired spacing */
+      }
+      .nav-link {
+        color: black;
+      }
+            
+      .nav-item:hover {
+        background-color: #a3a3a3; /* Replace with your desired background color */
+      }
+      
